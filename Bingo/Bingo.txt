@@ -1,0 +1,8 @@
+﻿
+Bingo app TDD
+Picks a random number each time between 1-99.
+Records the numbers for checking at the end.
+Game over when bingo is called.
+Check numbers recalls all previously called numbers.
+Same number cannot be picked twice.
+New game when all numbers have bee called.
